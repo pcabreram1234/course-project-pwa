@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Jadhielv/course-project-pwa/blob/master/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/jadhielv/course-project-pwa)
-![GitHub stars](https://img.shields.io/github/stars/jadhielv/course-project-pwa?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/jadhielv.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jadhielv?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jadhielv?style=social)](https://twitter.com/intent/follow?screen_name=jadhielv)
 
 This source code is part of Maximilian Schwarzmüller's "Progressive Web Apps - Complete Guide" course on udemy.com.
