@@ -4,7 +4,7 @@
   "description": "A complete guide to PWAs. Building a simple Instagram clone.",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -S -C cert.pem -o"
+    "start": "http-server -S -C cert.pem"
   },
   "keywords": [
     "pwa",
@@ -15,7 +15,7 @@
     "tutorial"
   ],
   "author": "Jadhiel Vélez",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "http-server": "^0.12.3",
     "webpack": "^4.43.0"
