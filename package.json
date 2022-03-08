@@ -18,7 +18,7 @@
   "license": "MIT",
   "devDependencies": {
     "http-server": "^0.12.3",
-    "webpack": "^5.25.0"
+    "webpack": "^5.70.0"
   },
   "dependencies": {
     "ecstatic": "^4.1.4"
